@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @suriya4749
-- 👀 I’m interested in Python|Web Scrapping|Web development
-- 🌱 I’m currently learning Aws | Automation | Web Scrapping
+- 👀 Python Developer|Web Scrapping|Web development
 - 📫 How to reach me suriyasureshkumar74@gmail.com
 
 <!---
