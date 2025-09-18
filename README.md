@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suriya4749
-- 👀 Python Developer|Web Scrapping|Web development
+- 👀 Data Engineer
 - 📫 How to reach me suriyasureshkumar74@gmail.com
 
 <!---
